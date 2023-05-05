@@ -1,7 +1,8 @@
 
 # ChatGPT&New Bing AI 使用心得
 
->2023.05.02 Updated
+>2023.05.02 Updated by qinglin, leave comments if any questions
+if problem prosists after google, please contant **[Editor](#jump_1)**
 
 
 - [ ChatGPT 中文指南 ](#-chatgpt-中文指南-)
@@ -601,4 +602,6 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 
 
 
+
 <a id="jump_1"></a>
+![IMG_3150(20230505-145951)](https://user-images.githubusercontent.com/108912608/236395159-3a6fb485-2970-4e1e-a806-d3fb592564e3.JPG)
