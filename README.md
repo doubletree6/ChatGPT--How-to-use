@@ -1,7 +1,7 @@
 
 # ChatGPT&New Bing AI 使用心得
 
->2023.05.02 Updated by qinglin, leave a comment if you have any question.
+>2023.05.02 Updated by Qinglin, leave a comment if you have any question.
 >If the problem persists after Google, please contact **[Editor](#jump_1)**
 
 
